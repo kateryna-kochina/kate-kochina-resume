@@ -28,7 +28,7 @@ If you find any issues or have suggestions for improvement, feel free to open an
 Feel free to reach out to me through the following channels:
 
 -   Email: kochina.ev@gmail.com
--   LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kateryna-kochina/)
+-   LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/kateryna-kochina/)
 
 ## License
 
