@@ -107,6 +107,12 @@ form {
     padding-left: 45px;
 }
 
+#projects {
+    margin: 25px;
+    margin-bottom: 15px;
+    padding-left: 45px;
+}
+
 #submit-btn {
     margin: 45px;
 }
